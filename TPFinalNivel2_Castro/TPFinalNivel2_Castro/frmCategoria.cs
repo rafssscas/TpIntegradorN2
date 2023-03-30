@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace TPFinalNivel2_Castro
 {
-    public partial class Form1 : Form
+    public partial class frmCategoria : Form
     {
-        public Form1()
+        public frmCategoria()
         {
             InitializeComponent();
         }
