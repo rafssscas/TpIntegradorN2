@@ -1,6 +1,6 @@
 ﻿namespace TPFinalNivel2_Castro
 {
-    partial class frmPrincipal
+    partial class Form1
     {
         /// <summary>
         /// Required designer variable.
